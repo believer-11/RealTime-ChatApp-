@@ -10,23 +10,7 @@ A production-ready real-time chat app built with **Flask**, **Socket.IO**, and *
 ![Nginx](https://img.shields.io/badge/Nginx-SSL_Proxy-009639?logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-purple?logo=githubactions&logoColor=white)
 
----
-
-## ✨ Features
-
-- 💬 **Real-time messaging** — Instant message delivery via WebSockets
-- 🔐 **User authentication** — Signup / Login with hashed passwords
-- 🏠 **Chat rooms** — Create or join any room
-- 📜 **Persistent messages** — Chat history stored in MongoDB
-- 🌙 **WhatsApp-style dark theme** — Clean, modern UI
-- 🐳 **Dockerized** — One-command deployment with Docker Compose
-- ☸️ **Kubernetes ready** — Full K8s manifests with Ingress, PV/PVC, ConfigMaps, Secrets
-- 🔒 **SSL/HTTPS** — Nginx reverse proxy with Let's Encrypt
-- 📊 **Monitoring** — Grafana dashboard for cluster observability
-- 🚀 **CI/CD** — Two-stage pipeline (Build → Deploy)
-
----
-
+Co-authored-by: FriendUsername <technopaththe@gmail.com>
 ## 🛠️ Tech Stack
 
 | Layer                | Technology                    |
