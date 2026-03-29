@@ -381,13 +381,4 @@ RealTime-ChatApp/
 | `EC2_SSH_KEY`     | EC2 private key (PEM format) |
 | `SECRET_KEY`      | Flask session secret         |
 
----
 
-## 💡 How to Use
-
-1. Open the app → **Sign up** with a username and password
-2. **Login** with your credentials
-3. Enter a **room name** (share it with friends!)
-4. Start chatting — messages persist across refreshes 🎉
-
----
